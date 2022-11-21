@@ -8,6 +8,7 @@ This repository contains the key generator for [Keys.lol](https://keys.lol) from
 4. install required packages with `go get`
 5. build the executable with `go build`
 6. Additionally you can build cross platform with the following commands:
+
 	Windows:
 		`GOOS=windows GOARCH=amd64 go build -o keys-generator-windows-128-amd64.exe`
 		
