@@ -28,7 +28,7 @@ This repository contains the key generator for [Keys.lol](https://keys.lol) from
 
 ### Linux
 
-1) ````bash sudo cp keys-generator-linux-amd64 /usr/local/bin```
+1) `sudo cp keys-generator-linux-amd64 /usr/local/bin`
 2) `chmod +rwx /usr/local/bin/keys-generator-linux-amd64`
 3) Open a terminal anywhere and run the commands below at Generating Keys.
 
